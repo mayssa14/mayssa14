@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning a **SIM (Systèmes Informatiques Et Mobiles)**
 
-- 👯 I’m looking for Intership on **Mobile App**
-
 - 👨‍💻 All of my projects are available at [https://github.com/mayssa14](https://github.com/mayssa14)
 
 - 📫 How to reach me **mejrimeyssa14@gmail.com**
