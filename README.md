@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/mayssa-mejri-34072a207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mejri-mayssa-34072a207" height="30" width="40" /></a>
+<a href="[www.linkedin.com/in/mayssa-mejri-34072a207](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mejri-mayssa-34072a207" height="30" width="40" /></a>
 <a href="https://fb.com/meyssa.mejri.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="meyssa.mejri.3" height="30" width="40" /></a>
 <a href="https://dribbble.com/meyssaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="meyssaaa" height="30" width="40" /></a>
 <a href="https://www.behance.net/mejrimeyss3b10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mejrimeyss3b10" height="30" width="40" /></a>
