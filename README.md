@@ -2,9 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayssa14&label=Profile%20views&color=0e75b6&style=flat" alt="mayssa14" /> </p>
 
 
-- 🔭 I’m currently Student on [Esprit](https://esprit.tn/)
-
-- 🌱 I’m currently learning a **SIM (Systèmes Informatiques Et Mobiles)**
+- 🔭 I’m Ingénieur Mobile 
 
 - 👨‍💻 All of my projects are available at [https://github.com/mayssa14](https://github.com/mayssa14)
 
